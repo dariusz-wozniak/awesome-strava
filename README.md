@@ -58,6 +58,7 @@ A curated list of awesome Strava tools & resources.
 # 🧐 Data inspection and analysis
 
 * [80/20 training](https://8020training.app/)
+* [FormBeat](https://www.formbeat.com/) - AI-powered cycling analysis
 * [Intervals.icu](https://intervals.icu/)
 
 # 🤖 Automation
