@@ -31,7 +31,7 @@ A curated list of awesome Strava tools & resources.
 # 🗺️ Map creation tools and route planners
 
 * [bikerouter](https://bikerouter.de/) - Cycling route planner.
-* ⭐ [Komoot](https://www.komoot.com/) - Cycling/Hike route planner, includes different bicycle types.
+⭐ [Komoot](https://www.komoot.com/) - Cycling/Hike route planner, includes different bicycle types.
 * [Mapy.cz](https://mapy.cz/) - Hike route planner.
 * [Naviki](https://www.naviki.org/) - Cycling route planner and real map, includes different bicycle types.
 * [OnTheGoMap](https://onthegomap.com/) - Very simple walk/cycling planner.
