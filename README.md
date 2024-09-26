@@ -65,7 +65,7 @@ A curated list of awesome Strava tools & resources.
 
 # 🤖 Automation
 * [ActivityFix](https://www.activityfix.com/)
-* [Straumator](https://straumator.com/)
+* [Strautomator](https://strautomator.com/home)
 
 # 🌦️ Weather-related tools
 
