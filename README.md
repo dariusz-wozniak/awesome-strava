@@ -23,13 +23,12 @@ A curated list of awesome Strava tools & resources.
 
 # Acquired by Strava
 
-* [FATMAP](https://fatmap.com/)
+* [FATMAP](https://fatmap.com/) - Retired since October 2024
 * [Recover Athletics](https://recoverathletics.com/)
 
 # 🗺️ Map creation tools and route planners
 
 * [bikerouter](https://bikerouter.de/)
-* [FATMAP](https://fatmap.com/)
 * [Komoot](https://www.komoot.com/)
 * [Mapy.cz](https://mapy.cz/)
 * [Naviki](https://www.naviki.org/)
