@@ -4,7 +4,7 @@
 
 A curated list of awesome Strava tools & resources.
 
-⭐ - Popular app / tool.
+<sup>⭐</sup> - Popular app / tool.
 
 # Official sites and apps
 
@@ -31,31 +31,31 @@ A curated list of awesome Strava tools & resources.
 # 🗺️ Map creation tools and route planners
 
 * [bikerouter](https://bikerouter.de/) - Cycling route planner.
-⭐ [Komoot](https://www.komoot.com/) - Cycling/Hike route planner, includes different bicycle types.
+* <sup>⭐</sup> [Komoot](https://www.komoot.com/) - Cycling/Hike route planner, includes different bicycle types.
 * [Mapy.cz](https://mapy.cz/) - Hike route planner.
 * [Naviki](https://www.naviki.org/) - Cycling route planner and real map, includes different bicycle types.
 * [OnTheGoMap](https://onthegomap.com/) - Very simple walk/cycling planner.
-* ⭐ [RideWithGPS](https://ridewithgps.com/) - Advanced cycling route planner.
-* ⭐ [Strava Route Planner](https://www.strava.com/routes/new) - Advanced planner (for paid Strava users).
+* <sup>⭐</sup> [RideWithGPS](https://ridewithgps.com/) - Advanced cycling route planner.
+* <sup>⭐</sup> [Strava Route Planner](https://www.strava.com/routes/new) - Advanced planner (for paid Strava users).
 
 # 📊 Statistics
 
 * [Active statistics](https://active-statistics.com/home)
 * [Elevate](https://github.com/thomaschampagne/elevate)
-* ⭐ [StatsHunters](https://www.statshunters.com/)
+* <sup>⭐</sup> [StatsHunters](https://www.statshunters.com/)
 * [Toolbox for Strava](https://www.marcellobrivio.com/projects/strava-toolbox/)
-* ⭐ [VeloViewer](https://veloviewer.com/)
+* <sup>⭐</sup> [VeloViewer](https://veloviewer.com/)
 
 # 🟦 Gamification (tiles, routes, etc.)
 
 * [CityStrides](https://citystrides.com/) - Streets
 * [JJAB (JouJou à Boubou](https://bouillard.org/kikourou/jjab/help.html) - Tiles, utility tool (French only)
-* ⭐ [Squadrats](https://squadrats.com/activities) - Tiles
+* <sup>⭐</sup> [Squadrats](https://squadrats.com/activities) - Tiles
 * [RideEveryTile](https://rideeverytile.com/) - Tiles 
-* ⭐ [StatsHunters](https://www.statshunters.com/) - Tiles
+* <sup>⭐</sup> [StatsHunters](https://www.statshunters.com/) - Tiles
 * [Tile Hunter](https://tilehunter.web.app/) - Tiles utility app
-* ⭐ [VeloViewer](https://veloviewer.com/) - Tiles
-* ⭐ [Wandrer.earth](https://wandrer.earth/) - Streets
+* <sup>⭐</sup> [VeloViewer](https://veloviewer.com/) - Tiles
+* <sup>⭐</sup> [Wandrer.earth](https://wandrer.earth/) - Streets
 
 # 🧐 Data inspection and analysis
 
