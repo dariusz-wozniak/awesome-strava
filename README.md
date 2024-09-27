@@ -85,7 +85,6 @@ A curated list of awesome Strava tools & resources.
 
 # 🛠️ Misc. tools
 
-* Commute marker (commutemarker.com) - Mark your commutes (delinked, because it's a HTTP only; use with caution)
 * [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
