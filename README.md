@@ -4,7 +4,7 @@
 
 A curated list of awesome Strava tools & resources.
 
-⭐ - Popular app / tool.
+⭐ - Popular app / tool
 
 # Official sites and apps
 
