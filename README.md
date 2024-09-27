@@ -50,10 +50,10 @@ A curated list of awesome Strava tools & resources.
 
 * [CityStrides](https://citystrides.com/) - Streets
 * [RideEveryTile](https://rideeverytile.com/) - Tiles
-* [Squadrats](https://squadrats.com/activities) ⭐ - Tiles
+* [Squadrats](https://squadrats.com/activities) ⭐ - Tiles: squadrats (and smaller, squadrathinos), yard (and yardinhos), übersquadrat (übersquadrathino)
 * [StatsHunters](https://www.statshunters.com/) ⭐ - Tiles
 * [VeloViewer](https://veloviewer.com/) ⭐ - Tiles
-* [Wandrer.earth](https://wandrer.earth/) ⭐ - Streets
+* [Wandrer.earth](https://wandrer.earth/) ⭐ - Streets and city/region/country completion in %
 
 ## Utilities app (for gamification sites)
 
