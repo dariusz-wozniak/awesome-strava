@@ -72,12 +72,18 @@ A curated list of awesome Strava tools & resources.
 * [Headwind](https://headwind.app/) - Wind forecast and analysis
 * [Klimat](https://klimat.app/) - Climate data for activities
 
+# 💾 File utilities
+
+* [Fit File Repair Tool](https://www.fitfilerepairtool.info/) - FIT file repairer
+* [FIT file tools](https://www.fitfiletools.com/) - Various tools for FIT files
+* [gpx.studio](https://gpx.studio/) - Online GPX file editor
+* [Swimming Watch tools](https://www.swimmingwatchtools.com/) - Editor / viewer for fixing swimming activities
+
 # 🛠️ Misc. tools
 
 * Commute marker (commutemarker.com) - Mark your commutes (delinked, because it's a HTTP only; use with caution)
-* [FIT file tools](https://www.fitfiletools.com/) - Various tools for FIT files
+* [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
 * [GOTOES for Strava](https://gotoes.org/strava/) - Various small tools
-* [gpx.studio](https://gpx.studio/) - Online GPX file editor
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
