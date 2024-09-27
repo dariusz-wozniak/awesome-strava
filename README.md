@@ -43,7 +43,7 @@ A curated list of awesome Strava tools & resources.
 * [Active statistics](https://active-statistics.com/home)
 * [Elevate](https://github.com/thomaschampagne/elevate)
 * [StatsHunters](https://www.statshunters.com/) ⭐
-* [Toolbox for Strava](https://www.marcellobrivio.com/projects/strava-toolbox/) - Stats for riding
+* [Toolbox for Strava](https://www.marcellobrivio.com/projects/strava-toolbox/) - Simple stats and ranks for riding
 * [VeloViewer](https://veloviewer.com/) ⭐
 
 # 🟦 Gamification (tiles, routes, etc.)
