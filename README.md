@@ -50,8 +50,8 @@ A curated list of awesome Strava tools & resources.
 
 * [CityStrides](https://citystrides.com/) - Streets
 * [JJAB (JouJou à Boubou](https://bouillard.org/kikourou/jjab/help.html) - Tiles, utility tool (French only)
+* [RideEveryTile](https://rideeverytile.com/) - Tiles
 * <sup>⭐</sup> [Squadrats](https://squadrats.com/activities) - Tiles
-* [RideEveryTile](https://rideeverytile.com/) - Tiles 
 * <sup>⭐</sup> [StatsHunters](https://www.statshunters.com/) - Tiles
 * [Tile Hunter](https://tilehunter.web.app/) - Tiles utility app
 * <sup>⭐</sup> [VeloViewer](https://veloviewer.com/) - Tiles
