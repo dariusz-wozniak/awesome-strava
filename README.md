@@ -92,5 +92,6 @@ A curated list of awesome Strava tools & resources.
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
 * [SmashRun](https://smashrun.com/) - Visualize run data
 * [Sport Graph](https://graph.rnnr.io/) - GitHub like activity graph
-* [strafo.app](https://strafo.app/) - Analyse Your Strava Running Best Efforts, PBs/PRs and Races
+* [strafo.app](https://strafo.app/) - Analyse your Strava running best efforts, PBs/PRs and races
+* [StrideStats](https://www.stridestats.com/) - Data about running, set goals, etc.
 * [tapiriik](https://tapiriik.com/) - Sync your fitness data between services
