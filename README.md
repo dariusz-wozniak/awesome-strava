@@ -76,6 +76,7 @@ A curated list of awesome Strava tools & resources.
 
 * [Fit File Repair Tool](https://www.fitfilerepairtool.info/) - FIT file repairer
 * [FIT file tools](https://www.fitfiletools.com/) - Various tools for FIT files
+* [GOTOES for Strava](https://gotoes.org/strava/) - Various small tools
 * [gpx.studio](https://gpx.studio/) - Online GPX file editor
 * [Swimming Watch tools](https://www.swimmingwatchtools.com/) - Editor / viewer for fixing swimming activities
 
@@ -83,7 +84,6 @@ A curated list of awesome Strava tools & resources.
 
 * Commute marker (commutemarker.com) - Mark your commutes (delinked, because it's a HTTP only; use with caution)
 * [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
-* [GOTOES for Strava](https://gotoes.org/strava/) - Various small tools
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
