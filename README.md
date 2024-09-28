@@ -35,6 +35,7 @@ A curated list of awesome Strava tools & resources.
 * [Mapy.cz](https://mapy.cz/) - Hike route planner
 * [Naviki](https://www.naviki.org/) - Cycling route planner and real map, includes different bicycle types
 * [OnTheGoMap](https://onthegomap.com/) - Very simple walk/cycling planner
+* [Organic Maps](https://organicmaps.app/) - Free, offline maps based on the OpenStreetMap
 * [RideWithGPS](https://ridewithgps.com/) ⭐ - Advanced cycling route planner
 * [Strava Route Planner](https://www.strava.com/routes/new) ⭐ - Advanced planner (for paid Strava users)
 
