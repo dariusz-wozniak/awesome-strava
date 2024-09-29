@@ -89,6 +89,7 @@ A curated list of awesome Strava tools & resources.
 # 🛠️ Misc. tools
 
 * [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
+* [Effortly](https://effortly.run/) - Logs music during runs
 * [geerly](https://www.geerly.com/) - Sync with parkrun results, get price alerts for your gear
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Metathon](https://www.metathon.com/) - Dashboards for marathoners
@@ -96,6 +97,7 @@ A curated list of awesome Strava tools & resources.
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
 * [SmashRun](https://smashrun.com/) - Visualize run data
+* [Spava](https://www.spava.club/) - Discover soundtracks for workouts
 * [Sport Graph](https://graph.rnnr.io/) - GitHub like activity graph
 * [strafo.app](https://strafo.app/) - Analyse your Strava running best efforts, PBs/PRs and races
 * [StrideStats](https://www.stridestats.com/) - Data about running, set goals, etc.
