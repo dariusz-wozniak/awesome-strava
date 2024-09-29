@@ -6,7 +6,7 @@ A curated list of awesome Strava tools & resources.
 
 ⭐ - Popular app / tool
 
-# Official sites and apps
+## Official sites and apps
 
 * [Strava main page](https://www.strava.com/)
 * [Strava Blog](https://stories.strava.com/)
@@ -23,12 +23,12 @@ A curated list of awesome Strava tools & resources.
   * [Android](https://play.google.com/store/apps/details?id=com.strava) 
   * [iOS](https://apps.apple.com/us/app/strava-run-bike-hike/id426826309)
 
-# Acquired by Strava
+## Acquired by Strava
 
 * [FATMAP](https://fatmap.com/) - Retired since October 2024
 * [Recover Athletics](https://recoverathletics.com/) - App for recovery prehab exercices
 
-# 🗺️ Map creation tools and route planners
+## 🗺️ Map creation tools and route planners
 
 * [bikerouter](https://bikerouter.de/) - Cycling route planner
 * [Komoot](https://www.komoot.com/) ⭐ - Cycling/Hike route planner, includes different bicycle types
@@ -39,7 +39,7 @@ A curated list of awesome Strava tools & resources.
 * [RideWithGPS](https://ridewithgps.com/) ⭐ - Advanced cycling route planner
 * [Strava Route Planner](https://www.strava.com/routes/new) ⭐ - Advanced planner (for paid Strava users)
 
-# 📊 Statistics
+## 📊 Statistics
 
 * [Active statistics](https://active-statistics.com/home)
 * [CubeTrek](https://github.com/r-follador/CubeTrek)
@@ -49,7 +49,7 @@ A curated list of awesome Strava tools & resources.
 * [Toolbox for Strava](https://www.marcellobrivio.com/projects/strava-toolbox/) - Simple stats and ranks for riding
 * [VeloViewer](https://veloviewer.com/) ⭐
 
-# 🟦 Gamification (tiles, routes, etc.)
+## 🟦 Gamification (tiles, routes, etc.)
 
 * [CityStrides](https://citystrides.com/) - Streets
 * [RideEveryTile](https://rideeverytile.com/) - Tiles
@@ -58,27 +58,27 @@ A curated list of awesome Strava tools & resources.
 * [VeloViewer](https://veloviewer.com/) ⭐ - Tiles
 * [Wandrer.earth](https://wandrer.earth/) ⭐ - Streets and city/region/country completion in %
 
-## Utilities app (for gamification sites)
+### Utilities app (for gamification sites)
 
 * [JJAB (JouJou à Boubou)](https://bouillard.org/kikourou/jjab/help.html) - Tiles utility tool (French only)
 * [Tile Hunter](https://tilehunter.web.app/) - Tiles utility app
 
-# 🧐 Data inspection and analysis
+## 🧐 Data inspection and analysis
 
 * [80/20 training](https://8020training.app/) - Intensity ratios
 * [FormBeat](https://www.formbeat.com/) - AI-powered cycling analysis
 * [Intervals.icu](https://intervals.icu/) - Basic and advanced analytics and planning tool
 
-# 🤖 Automation
+## 🤖 Automation
 * [ActivityFix](https://www.activityfix.com/)
 * [Strautomator](https://strautomator.com/home)
 
-# 🌦️ Weather-related tools
+## 🌦️ Weather-related tools
 
 * [Headwind](https://headwind.app/) - Wind forecast and analysis
 * [Klimat](https://klimat.app/) - Climate data for activities
 
-# 💾 File utilities
+## 💾 File utilities
 
 * [Fit File Repair Tool](https://www.fitfilerepairtool.info/) - FIT file repairer
 * [FIT file tools](https://www.fitfiletools.com/) - Various tools for FIT files
@@ -86,7 +86,7 @@ A curated list of awesome Strava tools & resources.
 * [gpx.studio](https://gpx.studio/) - Online GPX file editor
 * [Swimming Watch tools](https://www.swimmingwatchtools.com/) - Editor / viewer for fixing swimming activities
 
-# 🛠️ Misc. tools
+## 🛠️ Misc. tools
 
 * [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
 * [Effortly](https://effortly.run/) - Logs music during runs
