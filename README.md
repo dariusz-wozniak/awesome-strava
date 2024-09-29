@@ -100,5 +100,6 @@ A curated list of awesome Strava tools & resources.
 * [Spava](https://www.spava.club/) - Discover soundtracks for workouts
 * [Sport Graph](https://graph.rnnr.io/) - GitHub like activity graph
 * [strafo.app](https://strafo.app/) - Analyse your Strava running best efforts, PBs/PRs and races
+* [Strasync](https://strasync.com/) - Strava leaderboards with friends
 * [StrideStats](https://www.stridestats.com/) - Data about running, set goals, etc.
 * [tapiriik](https://tapiriik.com/) - Sync your fitness data between services
