@@ -74,7 +74,7 @@ A curated list of awesome Strava tools & resources.
 * [ActivityFix](https://www.activityfix.com/)
 * [Strautomator](https://strautomator.com/home)
 
-## 🌦️ Weather-related tools
+## 🌤️ Weather-related tools
 
 * [Headwind](https://headwind.app/) - Wind forecast and analysis
 * [Klimat](https://klimat.app/) - Climate data for activities
