@@ -57,7 +57,7 @@ A curated list of awesome Strava tools & resources.
 * [Squadrats](https://squadrats.com/activities) ⭐ - Tiles: squadrats (and smaller, squadrathinos), yard (and yardinhos), übersquadrat (übersquadrathino)
 * [StatsHunters](https://www.statshunters.com/) ⭐ - Tiles
 * [VeloViewer](https://veloviewer.com/) ⭐ - Tiles
-* [Wandrer.earth](https://wandrer.earth/) ⭐ - Streets and city/region/country completion in %
+* [Wandrer.earth](https://wandrer.earth/) ⭐ - Streets
 
 ### Utilities app (for gamification sites)
 
