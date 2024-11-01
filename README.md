@@ -61,6 +61,7 @@ A curated list of awesome Strava tools & resources.
 
 ### Utilities app (for gamification sites)
 
+* [EveryTile] - VeloViewer tiles for Garmin devices
 * [JJAB (JouJou à Boubou)](https://bouillard.org/kikourou/jjab/help.html) - Tiles utility tool (French only)
 * [Tile Hunter](https://tilehunter.web.app/) - Tiles utility app
 
