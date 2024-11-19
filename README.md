@@ -68,8 +68,11 @@ A curated list of awesome Strava tools & resources.
 ## 🧐 Data inspection and analysis
 
 * [80/20 training](https://8020training.app/) - Intensity ratios
+* [Final Surge](https://www.finalsurge.com/) - Training plans, calendars
 * [FormBeat](https://www.formbeat.com/) - AI-powered cycling analysis
 * [Intervals.icu](https://intervals.icu/) - Basic and advanced analytics and planning tool
+* [TrainerRoad](https://www.trainerroad.com/) - Workout automatic suggestions
+* [Xert](https://www.xertonline.com/) - Training analysis tools
 
 ## 🤖 Automation
 * [ActivityFix](https://www.activityfix.com/)
