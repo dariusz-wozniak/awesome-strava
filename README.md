@@ -67,7 +67,7 @@ A curated list of awesome Strava tools & resources.
 * [JJAB (JouJou à Boubou)](https://bouillard.org/kikourou/jjab/help.html) - Tiles utility tool (French only)
 * [Tile Hunter](https://tilehunter.web.app/) - Tiles utility app
 * [Wandrer Helper](https://play.google.com/store/apps/details?id=com.quilkin.wandrerhelper) - Helper for Wandrer.earth (Android)
-* [VeloViewer / StatHunters - Explorer](https://vv.fork.pl/) - Overlay for VeloViewer / StatHunters for BRouter Web, Locus Map, OsmAdn and NaKarte.me
+* [VeloViewer / StatHunters - Explorer](https://vv.fork.pl/) - Overlay for VeloViewer / StatHunters for BRouter Web, Locus Map, OsmAnd and NaKarte.me
 
 ## 🧐 Data inspection and analysis
 
