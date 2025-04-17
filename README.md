@@ -27,6 +27,7 @@ A curated list of awesome Strava tools & resources.
 
 * [FATMAP](https://fatmap.com/) - Retired since October 2024
 * [Recover Athletics](https://recoverathletics.com/) - App for recovery prehab exercices
+* [Runna](https://www.runna.com/) - Personalized running plans
 
 ## 🗺️ Map creation tools and route planners
 
