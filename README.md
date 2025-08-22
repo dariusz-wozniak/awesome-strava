@@ -44,7 +44,7 @@ A curated list of awesome Strava tools & resources.
 
 ## 📊 Statistics
 
-* [Active statistics](https://active-statistics.com/home)
+* [Active Statistics](https://active-statistics.com/home)
 * [CubeTrek](https://github.com/r-follador/CubeTrek)
 * [Elevate](https://github.com/thomaschampagne/elevate)
 * [RunRide Studio](https://runride.studio/)
