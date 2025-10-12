@@ -69,6 +69,7 @@ A curated list of awesome Strava tools & resources.
 * [JJAB (JouJou à Boubou)](https://bouillard.org/kikourou/jjab/help.html) - Tiles utility tool (French only)
 * [Squadrats and Squadrathinos OsmAnd overlay](https://github.com/nanolab/squadrats-osmand-overlay) - Minimal pipeline to turn squadrats.com vector tiles into an OsmAnd overlay (.obf) on Android
 * [Tile Hunter](https://tilehunter.web.app/) - Tiles utility app
+* [Squadrats2Garmin](https://github.com/kbrazulewicz/squadrats2garmin) - Squadrats for Garmin devices
 * [Wandrer Helper](https://play.google.com/store/apps/details?id=com.quilkin.wandrerhelper) - Helper for Wandrer.earth (Android)
 * [VeloViewer / StatHunters - Explorer](https://vv.fork.pl/) - Overlay for VeloViewer / StatHunters for BRouter Web, Locus Map, OsmAnd and NaKarte.me
 
