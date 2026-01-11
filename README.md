@@ -104,6 +104,7 @@ A curated list of awesome Strava tools & resources.
 * [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
 * [Effortly](https://effortly.run/) - Logs music during runs
 * [geerly](https://www.geerly.com/) - Sync with parkrun results, get price alerts for your gear
+* [Hopover](https://hopover.me/) - Strava leaderboards with friends (previously Strasync)
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Metathon](https://www.metathon.com/) - Dashboards for marathoners
 * [Login receipts](https://ngenart.com/strava/login-receipts) - Visualize your activities as receipts
@@ -113,6 +114,5 @@ A curated list of awesome Strava tools & resources.
 * [Spava](https://www.spava.club/) - Discover soundtracks for workouts
 * [Sport Graph](https://graph.rnnr.io/) - GitHub-like activity graph
 * [strafo.app](https://strafo.app/) - Analyse your Strava running best efforts, PBs/PRs and races
-* [Hopover](https://hopover.me/) - Strava leaderboards with friends (previously Strasync)
 * [StrideStats](https://www.stridestats.com/) - Data about running, set goals, etc.
 * [tapiriik](https://tapiriik.com/) - Sync your fitness data between services
