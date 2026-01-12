@@ -48,7 +48,7 @@ A curated list of awesome Strava tools & resources.
 * [CubeTrek](https://github.com/r-follador/CubeTrek)
 * [Elevate](https://github.com/thomaschampagne/elevate)
 * [RunRide Studio](https://runride.studio/)
-* [Statistics for Strava](https://github.com/robiningelbrecht/statistics-for-strava) ([demo](https://statistics-for-strava.robiningelbrecht.be/dashboard)) - Self-hosted, open-source dashboard for your Strava data)
+* [Statistics for Strava](https://github.com/robiningelbrecht/statistics-for-strava) ([demo](https://statistics-for-strava.robiningelbrecht.be/dashboard)) - Self-hosted, open-source dashboard for your Strava data
 * [StatsHunters](https://www.statshunters.com/) ⭐
 * [Toolbox for Strava](https://www.marcellobrivio.com/projects/strava-toolbox/) - Simple stats and ranks for riding
 * [VeloViewer](https://veloviewer.com/) ⭐
