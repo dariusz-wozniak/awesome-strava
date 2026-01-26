@@ -107,6 +107,7 @@ A curated list of awesome Strava tools & resources.
 * [geerly](https://www.geerly.com/) - Sync with parkrun results, get price alerts for your gear
 * [Hopover](https://hopover.me/) - Strava leaderboards with friends (previously Strasync)
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
+* [Kreuzungen.World](https://kreuzungen.world/) - Visualizes waterways (rivers, streams, canals) crossed during outdoor activities
 * [Metathon](https://www.metathon.com/) - Dashboards for marathoners
 * [Login receipts](https://ngenart.com/strava/login-receipts) - Visualize your activities as receipts
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
