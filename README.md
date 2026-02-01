@@ -80,6 +80,7 @@ A curated list of awesome Strava tools & resources.
 * [Final Surge](https://www.finalsurge.com/) - Training plans, calendars
 * [FormBeat](https://www.formbeat.com/) - AI-powered cycling analysis
 * [Intervals.icu](https://intervals.icu/) - Basic and advanced analytics and planning tool
+* [Riduck](https://riduck.com) - Cycling stats
 * [TrainerRoad](https://www.trainerroad.com/) - Workout automatic suggestions
 * [Xert](https://www.xertonline.com/) - Training analysis tools
 
