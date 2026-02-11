@@ -106,6 +106,7 @@ A curated list of awesome Strava tools & resources.
 * [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
 * [Effortly](https://effortly.run/) - Logs music during runs
 * [geerly](https://www.geerly.com/) - Sync with parkrun results, get price alerts for your gear
+* [git-sweaty](https://github.com/aspain/git-sweaty) - GitHub contribution-style activity heatmap dashboard
 * [Hopover](https://hopover.me/) - Strava leaderboards with friends (previously Strasync)
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Kreuzungen.World](https://kreuzungen.world/) - Visualizes waterways (rivers, streams, canals) crossed during outdoor activities
