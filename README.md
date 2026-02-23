@@ -108,6 +108,7 @@ A curated list of awesome Strava tools & resources.
 * [geerly](https://www.geerly.com/) - Sync with parkrun results, get price alerts for your gear
 * [git-sweaty](https://github.com/aspain/git-sweaty) - GitHub contribution-style activity heatmap dashboard
 * [Hopover](https://hopover.me/) - Strava leaderboards with friends (previously Strasync)
+* [INTVL](https://www.intvl.com.au/) - Capture territories by runs
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Kreuzungen.World](https://kreuzungen.world/) - Visualizes waterways (rivers, streams, canals) crossed during outdoor activities
 * [Metathon](https://www.metathon.com/) - Dashboards for marathoners
