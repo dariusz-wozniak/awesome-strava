@@ -41,6 +41,7 @@ A curated list of awesome Strava tools & resources.
 * [Organic Maps](https://organicmaps.app/) - Free, offline maps based on the OpenStreetMap
 * [RideWithGPS](https://ridewithgps.com/) ⭐ - Advanced cycling route planner
 * [Strava Route Planner](https://www.strava.com/routes/new) ⭐ - Advanced planner (for paid Strava users)
+* [BikeCompanion](https://bikecompanion.app/) - Cycling GPS app and route planner, with navigation, offline maps, and ride tracking
 
 ## 📊 Statistics
 
