@@ -31,6 +31,7 @@ A curated list of awesome Strava tools & resources.
 
 ## 🗺️ Map creation tools and route planners
 
+* [BikeCompanion](https://bikecompanion.app/) - Cycling GPS app and route planner, with navigation, offline maps, and ride tracking
 * [bikerouter](https://bikerouter.de/) - Cycling route planner
 * [CubeTrek](https://github.com/r-follador/CubeTrek) - Topographic maps
 * [Komoot](https://www.komoot.com/) ⭐ - Cycling/hike route planner, includes different bicycle types
@@ -41,7 +42,6 @@ A curated list of awesome Strava tools & resources.
 * [Organic Maps](https://organicmaps.app/) - Free, offline maps based on the OpenStreetMap
 * [RideWithGPS](https://ridewithgps.com/) ⭐ - Advanced cycling route planner
 * [Strava Route Planner](https://www.strava.com/routes/new) ⭐ - Advanced planner (for paid Strava users)
-* [BikeCompanion](https://bikecompanion.app/) - Cycling GPS app and route planner, with navigation, offline maps, and ride tracking
 
 ## 📊 Statistics
 
