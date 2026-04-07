@@ -64,6 +64,7 @@ A curated list of awesome Strava tools & resources.
 * [StatsHunters](https://www.statshunters.com/) ⭐ - Tiles
 * [VeloViewer](https://veloviewer.com/) ⭐ - Tiles
 * [Wandrer.earth](https://wandrer.earth/) ⭐ - Streets
+* [Wandrio](https://wandrio.net/) - Tiles
 
 ### Utilities app for gamification sites
 
