@@ -52,6 +52,7 @@ A curated list of awesome Strava tools & resources.
 * [Statistics for Strava](https://github.com/robiningelbrecht/statistics-for-strava) ([demo](https://statistics-for-strava.robiningelbrecht.be/dashboard)) - Self-hosted, open-source dashboard for your Strava data
 * [StatsHunters](https://www.statshunters.com/) ⭐
 * [Toolbox for Strava](https://www.marcellobrivio.com/projects/strava-toolbox/) - Simple stats and ranks for riding
+* [VeloMate](https://github.com/elduty/velomate) - Self-hosted cycling data platform
 * [VeloViewer](https://veloviewer.com/) ⭐
 
 ## 🟦 Gamification (tiles, routes, etc.)
