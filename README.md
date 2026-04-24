@@ -93,6 +93,7 @@ A curated list of awesome Strava tools & resources.
 
 ## 🌤️ Weather-related tools
 
+* [Airmine](https://airmine.ai/strava-plugin/) - Pollen and air quality
 * [Headwind](https://headwind.app/) - Wind forecast and analysis
 * [Klimat](https://klimat.app/) - Climate data for activities
 
