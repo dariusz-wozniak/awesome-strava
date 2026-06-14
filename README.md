@@ -116,6 +116,7 @@ A curated list of awesome Strava tools & resources.
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Kreuzungen.World](https://kreuzungen.world/) - Visualizes waterways (rivers, streams, canals) crossed during outdoor activities
 * [Metathon](https://www.metathon.com/) - Dashboards for marathoners
+* [Mythic Maps](https://mythicmaps.ai/) - Artistic maps
 * [Login receipts](https://ngenart.com/strava/login-receipts) - Visualize your activities as receipts
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
