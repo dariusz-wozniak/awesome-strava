@@ -85,6 +85,7 @@ A curated list of awesome Strava tools & resources.
 * [Intervals.icu](https://intervals.icu/) - Basic and advanced analytics and planning tool
 * [Riduck](https://riduck.com) - Cycling stats
 * [TrainerRoad](https://www.trainerroad.com/) - Workout automatic suggestions
+* [VeloVostra](https://velovostra.com/) - Strava-adaptive training planner that builds base/build/peak plans and reshapes the week ahead from your actual rides
 * [Xert](https://www.xertonline.com/) - Training analysis tools
 
 ## 🤖 Automation
