@@ -129,4 +129,5 @@ A curated list of awesome Strava tools & resources.
 * [StrideStats](https://www.stridestats.com/) - Data about running, set goals, etc.
 * [Summit Bag](https://summitbag.com/) - Automatically identifies your peaks and cols
 * [tapiriik](https://tapiriik.com/) - Sync your fitness data between services
+* [trackmy.shoes](https://trackmy.shoes/) - Track shoe mileage with advanced analytics and health monitoring
 * [watchmy.bike](https://watchmy.bike/) - Track bikes and components with Strava mileage, maintenance reminders, and public bike profiles
