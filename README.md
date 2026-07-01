@@ -117,7 +117,6 @@ A curated list of awesome Strava tools & resources.
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
 * [Login receipts](https://ngenart.com/strava/login-receipts) - Visualize your activities as receipts
 * [Kreuzungen.World](https://kreuzungen.world/) - Visualizes waterways (rivers, streams, canals) crossed during outdoor activities
-* [Metathon](https://www.metathon.com/) - Dashboards for marathoners
 * [Mythic Maps](https://mythicmaps.ai/) - Artistic maps
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
@@ -131,3 +130,7 @@ A curated list of awesome Strava tools & resources.
 * [tapiriik](https://tapiriik.com/) - Sync your fitness data between services
 * [trackmy.shoes](https://trackmy.shoes/) - Track shoe mileage with advanced analytics and health monitoring
 * [watchmy.bike](https://watchmy.bike/) - Track bikes and components with Strava mileage, maintenance reminders, and public bike profiles
+
+## 🕯️ Graveyard
+
+* [Metathon](https://www.metathon.com/) - Dashboards for marathoners
