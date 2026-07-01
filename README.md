@@ -115,10 +115,10 @@ A curated list of awesome Strava tools & resources.
 * [Hopover](https://hopover.me/) - Strava leaderboards with friends (previously Strasync)
 * [INTVL](https://www.intvl.com.au/) - Capture territories by runs
 * [KOM Club](https://www.kom.club/) - Hidden Strava challenges
+* [Login receipts](https://ngenart.com/strava/login-receipts) - Visualize your activities as receipts
 * [Kreuzungen.World](https://kreuzungen.world/) - Visualizes waterways (rivers, streams, canals) crossed during outdoor activities
 * [Metathon](https://www.metathon.com/) - Dashboards for marathoners
 * [Mythic Maps](https://mythicmaps.ai/) - Artistic maps
-* [Login receipts](https://ngenart.com/strava/login-receipts) - Visualize your activities as receipts
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
 * [SmashRun](https://smashrun.com/) - Visualize run data
