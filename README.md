@@ -34,6 +34,7 @@ A curated list of awesome Strava tools & resources.
 * [BikeCompanion](https://bikecompanion.app/) - Cycling GPS app and route planner, with navigation, offline maps, and ride tracking
 * [bikerouter](https://bikerouter.de/) - Cycling route planner
 * [CubeTrek](https://github.com/r-follador/CubeTrek) - Topographic maps
+* [Draw My Loop](https://drawmyloop.com/en/studio) - GPS art generator for drawing running and cycling routes, snapping shapes to real roads, and exporting GPX files for Strava, Garmin, and Komoot
 * [Komoot](https://www.komoot.com/) ⭐ - Cycling/hike route planner, includes different bicycle types
 * [Locus Map](https://www.locusmap.app/) - Cyclin/biking/hiking/skiing route planner
 * [Mapy.cz](https://mapy.cz/) - Hike route planner
