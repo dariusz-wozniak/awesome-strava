@@ -61,6 +61,7 @@ A curated list of awesome Strava tools & resources.
 * [CityStrides](https://citystrides.com/) - Streets
 * [myCols](https://mycols.app/en) - Cycling climbs, hills or cols
 * [RideEveryTile](https://rideeverytile.com/) - Tiles
+* [Scouff](https://scouff.com/) - Tiles
 * [Squadrats](https://squadrats.com/activities) ⭐ - Tiles: squadrats (and squadrathinos), yard (yardinhos), übersquadrat (übersquadrathino)
 * [StatsHunters](https://www.statshunters.com/) ⭐ - Tiles
 * [VeloViewer](https://veloviewer.com/) ⭐ - Tiles
