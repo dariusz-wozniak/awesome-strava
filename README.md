@@ -122,6 +122,7 @@ A curated list of awesome Strava tools & resources.
 * [Kreuzungen.World](https://kreuzungen.world/) - Visualizes waterways (rivers, streams, canals) crossed during outdoor activities
 * [Mythic Maps](https://mythicmaps.ai/) - Artistic maps
 * [Negative Split for Strava](https://chromewebstore.google.com/detail/negative-split-for-strava/gdipnmonkngbpclbjcpnopenpckfcgbn) - Free Chrome extension with local, runner-first analytics on Strava pages. No API, no login, nothing leaves the browser.
+* [Roast My Strava](https://roastmystrava.com/) - AI roasts of your profile, activities and training weeks, plus funny activity title ideas
 * [Sauce for Strava](https://www.sauce.llc/) - Browser extension to enhance Strava page
 * [Segment Explorer](https://www.doogal.co.uk/SegmentExplorer) - As the name says :)
 * [SmashRun](https://smashrun.com/) - Visualize run data
