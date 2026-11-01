@@ -41,6 +41,7 @@ A curated list of awesome Strava tools & resources.
 * [Naviki](https://www.naviki.org/) - Cycling route planner and real-time map, includes different bicycle types
 * [OnTheGoMap](https://onthegomap.com/) - Very simple walk/cycling planner
 * [Organic Maps](https://organicmaps.app/) - Free, offline maps based on the OpenStreetMap
+* [Pedalah](https://pedalah.com/) - Free, no-login cycling route planner with loop and hill-climb (KOM) rides, avoid traffic lights/right turns, and GPX export (Singapore only)
 * [RideWithGPS](https://ridewithgps.com/) ⭐ - Advanced cycling route planner
 * [Strava Route Planner](https://www.strava.com/routes/new) ⭐ - Advanced planner (for paid Strava users)
 * [Tisseur de Voies](https://tisseurdevoies.fr/strava) - Bike + train loop planner with Strava heatmap and tile-hunting filters (France only)
