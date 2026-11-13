@@ -115,6 +115,7 @@ A curated list of awesome Strava tools & resources.
 ## 🛠️ Misc. tools
 
 * [Concioconcio](https://concioconcio.cc/) - Transparent overlays of activities
+* [Current Challenges](https://currentchallenges.com/) - Hidden Strava challenges with exact dates, goals, prizes and the countries where each prize is open; a page for every challenge and email alerts. Free, no login.
 * [Effortly](https://effortly.run/) - Logs music during runs
 * [geerly](https://www.geerly.com/) - Sync with parkrun results, get price alerts for your gear
 * [git-sweaty](https://github.com/aspain/git-sweaty) - GitHub contribution-style activity heatmap dashboard
