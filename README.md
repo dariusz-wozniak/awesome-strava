@@ -57,6 +57,7 @@ A curated list of awesome Strava tools & resources.
 * [Toolbox for Strava](https://www.marcellobrivio.com/projects/strava-toolbox/) - Simple stats and ranks for riding
 * [VeloMate](https://github.com/elduty/velomate) - Self-hosted cycling data platform
 * [VeloViewer](https://veloviewer.com/) ⭐
+* [Year in Motion](https://lanternlab2027.github.io/lab/sport/?ref=awesome-strava) - Free year-in-review cards from your Strava bulk export (also Garmin CSV and GPX): distance, elevation, streaks, sport mix and route art, made in the browser without uploading the file
 * [Yearlap](https://peakappsstudio.com/strava-year-in-review/) - Free year in review from your Strava bulk export (distance, time, climbing, streaks, story cards), read in the browser without uploading the file
 
 ## 🟦 Gamification (tiles, routes, etc.)
