@@ -109,6 +109,7 @@ A curated list of awesome Strava tools & resources.
 * [FileForge](https://beingrealfrank.github.io/fileforge/fit-to-gpx/) - Browser-based FIT file repair (keeps heart rate, power and laps), FIT to GPX and GPX/FIT/TCX merge; files never leave your device (free daily allowance, paid packs)
 * [Fit File Repair Tool](https://www.fitfilerepairtool.info/) - FIT file repairer
 * [FIT file tools](https://www.fitfiletools.com/) - Various tools for FIT files
+* [FitMerge](https://fitmerge.app/) - Free in-browser tool that merges several FIT, GPX or TCX files into one activity; files stay on your device
 * [GOTOES for Strava](https://gotoes.org/strava/) - Various small tools
 * [gpx.studio](https://gpx.studio/) - Online GPX file editor
 * [KADALTO](https://kadalto.com/) - Browser-based FIT, GPX and TCX tools for inspecting, trimming, merging and converting supported ride files, plus same-ride FIT sensor-data transfer
