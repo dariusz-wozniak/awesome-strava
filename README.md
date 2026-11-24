@@ -44,6 +44,7 @@ A curated list of awesome Strava tools & resources.
 * [Pedalah](https://pedalah.com/) - Free, no-login cycling route planner with loop and hill-climb (KOM) rides, avoid traffic lights/right turns, and GPX export (Singapore only)
 * [RideWithGPS](https://ridewithgps.com/) ⭐ - Advanced cycling route planner
 * [Strava Route Planner](https://www.strava.com/routes/new) ⭐ - Advanced planner (for paid Strava users)
+* [RouteDoodle](https://www.routedoodle.com/) - Free advanced GPS art generator: makes Strava art from images and text, finds good spots on the map, instantly reroutes when penciling and editing, exports to GPX/TCX with directions
 * [Tisseur de Voies](https://tisseurdevoies.fr/strava) - Bike + train loop planner with Strava heatmap and tile-hunting filters (France only)
 
 ## 📊 Statistics
